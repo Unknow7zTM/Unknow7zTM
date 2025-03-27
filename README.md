@@ -1,13 +1,13 @@
-# Hi there! 👋
+# Hey! 👋
 
-I'm **Unknow7zTM**, a passionate technical school student at Gral. Manuel Savio. Here's a bit about me:
+I'm **Unknow7zTM**, just a guy juggling welding and web development—two totally different vibes, I know! Here's a bit about me:
 
-- 🔭 **Currently:** Wrapping up my studies as a professional welding technician while learning web development (two completely different worlds, but fascinating!).
-- 🌱 **Learning:** Everything about web development, with a focus on Backend skills.
-- 👯 **Looking to collaborate on:** Small web development projects to sharpen my abilities.
-- 💬 **Let's talk about:** Computers, especially Windows (no coding), as I always manage to solve issues.
-- 📫 **How to reach me:** 
+- 🔭 **What I'm up to:** Finishing my studies as a welding tech while learning the ropes of web development.
+- 🌱 **Learning:** Backend stuff and anything cool about web dev.
+- 👯 **Looking for:** Small web projects to get better at this whole development thing.
+- 💬 **Hit me up for:** Fixing computer issues, especially on Windows (I'm kind of a wizard at that—no coding, though).
+- 📫 **Find me:** 
    - Instagram: [shxt.junior](https://www.instagram.com/shxt.junior)
    - Email: [yurronbar@outlook.com.ar](mailto:yurronbar@outlook.com.ar)
-- 😄 **Pronouns on the internet:** Yurron, Chunti, and Paloma.
-- ⚡ **Fun fact:** I study English on Duolingo! 🦉
+- 😄 **Online aliases:** Yurron, Chunti, and Paloma—just go with it!
+- ⚡ **Random fact:** I learn English on Duolingo like a pro. 🦉
