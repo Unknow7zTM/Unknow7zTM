@@ -1,13 +1,13 @@
-# Hey! 👋
+#Hello! 👋
 
-I'm **Unknow7zTM**, just a guy juggling welding and web development—two totally different vibes, I know! Here's a bit about me:
+I'm **Unknow7zTM**, just a guy juggling soldering and development two totally different things but yeah. Here's a little bit about me:
 
-- 🔭 **What I'm up to:** Finishing my studies as a welding tech while learning the ropes of web development.
+- 🔭 **What I'm doing:** Finishing my studies as a welding technician while learning the web development stuff.
 - 🌱 **Learning:** Backend stuff and anything cool about web dev.
-- 👯 **Looking for:** Small web projects to get better at this whole development thing.
-- 💬 **Hit me up for:** Fixing computer issues, especially on Windows (I'm kind of a wizard at that—no coding, though).
+- 👯 **Looking for:** Small web projects to get better at this whole dev thing.
+- 💬 **Hit me up for:** Fixing computer problems, especially on Windows (I'm kind of a wizard at that)(not coding, though).
 - 📫 **Find me:** 
    - Instagram: [shxt.junior](https://www.instagram.com/shxt.junior)
    - Email: [yurronbar@outlook.com.ar](mailto:yurronbar@outlook.com.ar)
-- 😄 **Online aliases:** Yurron, Chunti, and Paloma—just go with it!
+- 😄 **Apodes online:** Yurron, Chunti and Paloma, just let yourself go!
 - ⚡ **Random fact:** I learn English on Duolingo like a pro. 🦉
